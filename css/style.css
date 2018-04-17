@@ -481,7 +481,7 @@ hr {
   .slide.animation.multimedia .wrapper > .content iframe {
     display: block;
     width: 50%;
-    height: 60%;
+    height: 100%;
     margin: 0 auto;
   }
 
